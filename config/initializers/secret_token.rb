@@ -16,4 +16,4 @@
 # Using secret_token for rails3 compatibility. Change to secret_key_base
 # to avoid deprecation warning.
 # Can be safely removed in a rails3 api-only application.
-AngularjsRails4::Application.config.secret_token = '27d10c9d6857028ff4e08dc1416294fb8959d0548aef7393022f8eb63d7c139d458cb7a22555cd54ce63efb5a2c3de2e9ec1557e8c6aa401b3e679dbda904c64'
+AngularjsRails4::Application.config.secret_token = '6bf8991a70ec97bc1a30fb9bae6ff7a521946c1179355998b2d86bf0ae16b7bb157bdc8f0902d25ab13a71d5820290cf4147298572829672624ffeab5710ef21'
